@@ -1,4 +1,4 @@
 # Frontend_miniproject
 this is my second project 
 <br>
-Author - Jay Lohar
+Author - Jay B Lohar
